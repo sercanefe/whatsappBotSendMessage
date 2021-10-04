@@ -1,0 +1,1 @@
+import pywhatkit as pypy.sendwhatmsg(f"+90{phone_number}","aga whatsapp botu yapıyom deneme mesajı",21,1)
